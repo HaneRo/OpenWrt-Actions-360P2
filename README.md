@@ -25,7 +25,7 @@ Frp内网穿透
 UPNP  
 WOl网络唤醒 
 KMS服务器  
-FTP 
+FTP  
 SQM Qos 
 Turbo ACC网络加速 
 

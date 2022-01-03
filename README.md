@@ -14,21 +14,25 @@
 
 **编译插件:**
 
-PassWall  
-Adguardhome 
-DNS过滤 
-上网时间控制  
-网易云解锁  
-动态DNS  
-SmartDNS   
-Frp内网穿透  
-UPNP  
-WOl网络唤醒 
-KMS服务器  
-FTP  
-SQM Qos 
+| **PassWall**          |
+| :-------------------- |
+| **Adguardhome**       |
+| **DNS过滤**           |
+| **上网时间控制**      |
+| **网易云解锁**        |
+| **动态DNS**           |
+| **SmartDNS**          |
+| **Frp内网穿透**       |
+| **UPNP**              |
+| **WOl网络唤醒**       |
+| **KMS服务器**         |
+| **SQM Qos**           |
+| **Turbo ACC网络加速** |
+| **FTP**               |
 
-Turbo ACC网络加速 
+
+
+
 
 
 

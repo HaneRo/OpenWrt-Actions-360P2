@@ -12,11 +12,9 @@
 
 **编译插件:**
 
-Firewall
-
-Adguardhome
-
-DNSfilter
+Firewall  
+Adguardhome 
+DNSfilter 
 
 ntpc
 

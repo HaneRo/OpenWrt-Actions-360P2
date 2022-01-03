@@ -4,27 +4,44 @@
 
 该openwrt固件为Newifi3-d2专属
 
-- Theme: 
+- Theme: Material(默认)、Argon、Bootstrap
 - IP: 192.168.10.1
 - Language: en; zh-cn
+- 用户名: root
+- 密码: password
 
 
 
 **编译插件:**
 
-Firewall  
+PassWall  
 Adguardhome 
-DNSfilter 
-ntpc  
-Passwall  
-samba4  
-smartdns  
-sqm 
-ttyd  
+DNS过滤 
+上网时间控制  
+网易云解锁  
+动态DNS  
+SmartDNS   
+Frp内网穿透  
 UPNP  
-FTP文件服务器  
-FRPC  
-WOl网络唤醒 
+WOl网络唤醒	
+
+KMS服务器	
+
+FTP	
+
+SQM Qos	
+
+Turbo ACC网络加速
+
+
+
+
+
+**预览图:**
+
+![image-20220103192634534](https://raw.githubusercontent.com/Discover999/TyporaPic/master/image-20220103192634534.png)![image-20220103192807049](https://raw.githubusercontent.com/Discover999/TyporaPic/master/image-20220103192807049.png)
+
+
 
 
 

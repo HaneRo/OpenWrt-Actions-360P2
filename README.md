@@ -23,11 +23,11 @@ DNS过滤
 SmartDNS   
 Frp内网穿透  
 UPNP  
-WOl网络唤醒	
-KMS服务器	
-FTP	
-SQM Qos	
-Turbo ACC网络加速
+WOl网络唤醒 
+KMS服务器  
+FTP 
+SQM Qos 
+Turbo ACC网络加速 
 
 
 

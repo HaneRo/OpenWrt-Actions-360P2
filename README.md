@@ -13,18 +13,31 @@
 **编译插件:**
 
 Firewall
+
 Adguardhome
+
 DNSfilter
+
 ntpc
+
 Passwall
+
 samba4
+
 smartdns
+
 sqm
+
 ttyd
+
 UPNP
+
 FTP文件服务器
+
 FRPC
+
 WOl网络唤醒
+
 
 
 

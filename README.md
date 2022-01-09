@@ -4,7 +4,7 @@
 
 该openwrt固件为Newifi3-d2专属
 
-- Theme: Material(默认)、Argon、Bootstrap
+- Theme: Bootstrap(默认)、Argon
 - IP: 192.168.10.1
 - Language: en; zh-cn
 - 用户名: root

@@ -4,7 +4,7 @@
 
 固件适用型号: **Newifi3-d2**
 
-- Theme: Bootstrap(默认)、Argon
+- Theme: Argon(默认)、Bootstrap
 - IP: 192.168.10.1
 - Language: en; zh-cn
 - 用户名: root

@@ -2,7 +2,7 @@
 
 **基于 [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) 项目云编译的Openwrt固件**
 
-该openwrt固件为Newifi3-d2专属
+固件适用型号: **Newifi3-d2**
 
 - Theme: Bootstrap(默认)、Argon
 - IP: 192.168.10.1

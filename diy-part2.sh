@@ -29,5 +29,5 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' package/base-files/files/etc/sysctl.conf
 
 # themes
-git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 #sed -i 's/luci-theme-bootstrap/luci-theme-openwrt/g' feeds/luci/collections/luci/Makefile

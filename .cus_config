@@ -76,6 +76,10 @@ CONFIG_PACKAGE_kmod-usb-xhci-hcd=y
 CONFIG_PACKAGE_kmod-usb2=y
 CONFIG_PACKAGE_kmod-usb2-pci=y
 
+#上网卡
+CONFIG_PACKAGE_kmod-usb-net=y
+CONFIG_PACKAGE_kmod-usb-net-rndis=y
+
 #USB硬盘挂载
 CONFIG_PACKAGE_autoshare-samba=y
 CONFIG_PACKAGE_automount=y
@@ -109,19 +113,19 @@ CONFIG_PACKAGE_openssl-util=y
 
 #插件区
 CONFIG_PACKAGE_luci-app-adguardhome=n
-CONFIG_PACKAGE_luci-app-dnsfilter=y
+CONFIG_PACKAGE_luci-app-dnsfilter=n
 CONFIG_PACKAGE_luci-app-firewall=y
 CONFIG_PACKAGE_luci-app-frpc=n
 CONFIG_PACKAGE_luci-app-nlbwmon=n
-CONFIG_PACKAGE_luci-app-ntpc=y
+CONFIG_PACKAGE_luci-app-ntpc=n
 CONFIG_PACKAGE_luci-app-opkg=y
 CONFIG_PACKAGE_luci-app-samba4=n
-CONFIG_PACKAGE_luci-app-smartdns=y
+CONFIG_PACKAGE_luci-app-smartdns=n
 CONFIG_PACKAGE_luci-app-ttyd=n
 CONFIG_PACKAGE_luci-app-turboacc=y
 CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_OFFLOADING=y
-CONFIG_PACKAGE_luci-app-upnp=y
-CONFIG_PACKAGE_luci-app-wol=n
+CONFIG_PACKAGE_luci-app-upnp=n
+CONFIG_PACKAGE_luci-app-wolplus=n
 
 #其他
 CONFIG_PACKAGE_luci-app-diskman_INCLUDE_lsblk=y
@@ -157,7 +161,7 @@ CONFIG_PACKAGE_luci-mod-system=y
 CONFIG_PACKAGE_luci-proto-ipv6=y
 CONFIG_PACKAGE_luci-proto-ppp=n
 CONFIG_PACKAGE_luci-ssl=y
-CONFIG_PACKAGE_px5g-wolfssl=y
+#CONFIG_PACKAGE_px5g-wolfssl=y
 CONFIG_PACKAGE_rpcd=y
 CONFIG_PACKAGE_rpcd-mod-file=y
 CONFIG_PACKAGE_rpcd-mod-iwinfo=y
